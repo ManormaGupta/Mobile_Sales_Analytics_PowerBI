@@ -2,6 +2,9 @@
 
 A comprehensive Power BI Data Analytics project focused on exploring and transforming raw smartphone retail transaction data into actionable business insights.
 
+## 📸 Dashboard Preview
+![Mobile Sales Dashboard Preview](Screenshot%202026-05-21%20134044.png)
+
 ## 🔍 Project Overview & Objectives
 In the fast-paced consumer electronics retail market, understanding sales performance, transaction formats, and regional demand shifts is critical for inventory optimization. This project delivers an interactive, end-to-end business dashboard designed to help retail managers track operational health and customer behavior.
 
